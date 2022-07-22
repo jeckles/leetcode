@@ -1,2 +1,3 @@
 # leetcode-journey
-This repository serves to track my leetcode journey. With interviews coming up soon, I need to be in the best shape of my life from an algorithms standpoint and I'm not at all there yet.
+
+The purpose of this repo is to track my leetcode journey. With interviews coming up, I need to be on top of my game as far as a lot of these things go.
