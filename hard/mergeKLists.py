@@ -19,6 +19,8 @@ class ListNode:
 '''
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        if len(lists) == 0:
+            return None
         result = resultPointer = ListNode(0, None)
         currMin, indexMin, curr, i = ListNode(float('inf'), None), 0, None, 0
         while i < len(lists) and len(lists) > 1:
