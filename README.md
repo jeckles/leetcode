@@ -4,10 +4,10 @@ The purpose of this repo is to track my progress solving leetcode problems for u
 
 # offers:
 
-GOOG ❎
+GOOGL ❎
 
 PLTR ❎
 
 MSFT &#x2611;
 
-AMZON &#x2611;
+AMZN &#x2611;
