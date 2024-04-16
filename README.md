@@ -12,9 +12,21 @@ MSFT &#x2611;
 
 AMZN &#x2611;
 
-QUALTRIX &#x225F;
+QUALTRIX 🤔;
   - survey software company
 
-TIDAL &#x225F;
+TIDAL 🤔;
   - front end engineers
   - music software company
+
+STRIPE 🤔;
+  - payment automation software
+
+SCHRODINGER 🤔;
+  - molecular modeling company
+
+COINBASE 🤔;
+  - crypto trading platform
+
+TRIPIO 🤔;
+  - travel planning software
