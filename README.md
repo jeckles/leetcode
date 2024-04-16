@@ -8,27 +8,27 @@ GOOGL ❎
 
 PLTR ❎
 
-MSFT &#x2611;
+MSFT 😴
 
 AMZN &#x2611;
 
 ----------------------------------------------------------------------------------------------------------------------
 
-QUALTRIX 🤔;
+QUALTRIX 🤔
   - survey software company
 
-TIDAL 🤔;
+TIDAL 🤔
   - front end engineers
   - music software company
 
-STRIPE 🤔;
+STRIPE 🤔
   - payment automation software
 
-SCHRODINGER 🤔;
+SCHRODINGER 🤔
   - molecular modeling company
 
-COINBASE 🤔;
+COINBASE 🤔
   - crypto trading platform
 
-TRIPIO 🤔;
+TRIPIO 🤔
   - travel planning software, Sam Bingham CEO.
