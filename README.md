@@ -13,3 +13,8 @@ MSFT &#x2611;
 AMZN &#x2611;
 
 QUALTRIX &#x225F;
+  - survey software company
+
+TIDAL &#x225F;
+  - front end engineers
+  - music software company
