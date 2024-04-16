@@ -12,6 +12,8 @@ MSFT &#x2611;
 
 AMZN &#x2611;
 
+----------------------------------------------------------------------------------------------------------------------
+
 QUALTRIX 🤔;
   - survey software company
 
@@ -29,4 +31,4 @@ COINBASE 🤔;
   - crypto trading platform
 
 TRIPIO 🤔;
-  - travel planning software
+  - travel planning software, Sam Bingham CEO.
