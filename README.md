@@ -31,4 +31,7 @@ COINBASE 🤔
   - crypto trading platform
 
 TRIPIO 🤔
-  - travel planning software, Sam Bingham CEO.
+  - travel planning software, Sam Bingham CEO
+
+GITHUB 🤔
+  - software company, owned by Microsoft
