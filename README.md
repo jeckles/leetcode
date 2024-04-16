@@ -11,3 +11,5 @@ PLTR ❎
 MSFT &#x2611;
 
 AMZN &#x2611;
+
+QUALTRIX &#x225F;
