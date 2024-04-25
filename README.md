@@ -35,3 +35,6 @@ TRIPIO 🤔
 
 GITHUB 🤔
   - software company, owned by Microsoft
+
+ANDURIL 🤔
+  - defense contractor, Palmer Lucky
