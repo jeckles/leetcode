@@ -5,7 +5,11 @@ class Solution(object):
             self.colorIsland(i + 1, j, grid, numIslands)
             self.colorIsland(i - 1, j, grid, numIslands)
             self.colorIsland(i, j + 1, grid, numIslands)
+<<<<<<< HEAD
             self.colorIsland(i, j - 1, grid, numIslands)    
+=======
+            self.colorIsland(i, j - 1, grid, numIslands) 
+>>>>>>> 8a0bb27f02ff6bd30642c4d1ed537c8dd69e2749
         return
     
     def numIslands(self, grid):
@@ -19,8 +23,14 @@ class Solution(object):
                 if grid[i][j] == "1":
                     numIslands += 1
                     self.colorIsland(i, j, grid, numIslands)
+<<<<<<< HEAD
         numIslands -= 1
         return numIslands
     
+=======
+            numIslands -= 1
+            return numIslands
+
+>>>>>>> 8a0bb27f02ff6bd30642c4d1ed537c8dd69e2749
 s, grid = Solution(), [["1","1","0","0","0"], ["1","1","0","0","0"], ["0","0","1","0","0"], ["0","0","0","1","1"]]
 print(s.numIslands(grid))
